@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-10T01:04:31 EDT" name="Suite" finished-at="2021-05-10T01:07:26 EDT" duration-ms="174216">
+    <groups>
+    </groups>
+    <test started-at="2021-05-10T01:04:31 EDT" name="Test" finished-at="2021-05-10T01:07:26 EDT" duration-ms="174216">
+      <class name="TheScore.TheScoreTest.ScoreAppTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TheScore.TheScoreTest.ScoreAppTest@2ef3eef9]" started-at="2021-05-10T01:04:31 EDT" name="beforeTest" finished-at="2021-05-10T01:06:12 EDT" duration-ms="100586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestLeague()[pri:0, instance:TheScore.TheScoreTest.ScoreAppTest@2ef3eef9]" started-at="2021-05-10T01:06:12 EDT" name="TestLeague" finished-at="2021-05-10T01:07:17 EDT" duration-ms="65296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLeague -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TheScore.TheScoreTest.ScoreAppTest@2ef3eef9]" started-at="2021-05-10T01:07:17 EDT" name="afterTest" finished-at="2021-05-10T01:07:26 EDT" duration-ms="8072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TheScore.TheScoreTest.ScoreAppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
